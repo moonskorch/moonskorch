@@ -1,16 +1,31 @@
-## Hi there 👋
+# About
 
-<!--
-**moonskorch/moonskorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer working across application development, web, databases, infrastructure, and interactive systems.
 
-Here are some ideas to get you started:
+My main background is C#/.NET and business software, with experience in backend services, integrations, cloud infrastructure, and Unity/WebGL development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ReverySky 3D Graph
+
+### [Explore your Obsidian vault as an interactive 3D star map](https://github.com/moonskorch/ReverySky-Plugin)
+
+[ReverySky 3D Graph](https://github.com/moonskorch/ReverySky-Plugin) is an open-source Obsidian Community plugin that turns the structure of a vault into an explorable 3D universe.
+
+It combines an Obsidian TypeScript plugin with a Unity WebGL runtime and includes multiple graph layouts, filtering, note navigation, local data processing, and support for large vaults.
+
+[View source](https://github.com/moonskorch/ReverySky-Plugin) · [Install from Obsidian Community Plugins](https://community.obsidian.md/plugins/reverysky-map)
+
+## Professional background
+
+**Languages & frameworks:** C# / .NET · Vue 3 · TypeScript · JavaScript · Go
+
+**Databases:** PostgreSQL · Microsoft SQL Server · SQLite
+
+**Infrastructure:** Kubernetes · cloud infrastructure
+
+**Interactive:** Unity · WebGL
+
+## Freelance & contract development
+
+Available for freelance and contract software development, as well as technical collaboration.
+
+For project inquiries: [reverysky.journal@proton.me](mailto:reverysky.journal@proton.me)
