@@ -1,17 +1,10 @@
 ## About
 
-Software developer working across application development, web, databases, infrastructure, and interactive systems.
-
-My main background is C#/.NET and business software, with experience in backend services, integrations, cloud infrastructure, and Unity/WebGL development.
-
-## Professional background
+Software developer focused on C#/.NET and business software, with experience across web development, backend systems, databases, cloud infrastructure, and Unity/WebGL.
 
 **Languages & frameworks:** C# / .NET · Vue 3 · TypeScript · JavaScript · Go
-
 **Databases:** PostgreSQL · Microsoft SQL Server · SQLite
-
 **Infrastructure:** Kubernetes · cloud infrastructure
-
 **Interactive:** Unity · WebGL
 
 ## ReverySky 3D Graph
