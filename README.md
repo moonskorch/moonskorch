@@ -2,10 +2,10 @@
 
 Software developer focused on C#/.NET and business software, with experience across web development, backend systems, databases, cloud infrastructure, and Unity/WebGL.
 
-**Languages & frameworks:** C# / .NET · Vue 3 · TypeScript · JavaScript · Go
-**Databases:** PostgreSQL · Microsoft SQL Server · SQLite
-**Infrastructure:** Kubernetes · cloud infrastructure
-**Interactive:** Unity · WebGL
+- **Languages & frameworks:** C# / .NET · Vue 3 · TypeScript · JavaScript · Go
+- **Databases:** PostgreSQL · Microsoft SQL Server · SQLite
+- **Infrastructure:** Kubernetes · cloud infrastructure
+- **Interactive:** Unity · WebGL
 
 ## ReverySky 3D Graph
 
