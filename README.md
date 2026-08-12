@@ -1,3 +1,5 @@
+![Profile banner](assets/profile-banner.webp)
+
 ## About
 
 Software developer focused on C#/.NET and business software, with experience across web development, backend systems, databases, cloud infrastructure, and Unity/WebGL.
