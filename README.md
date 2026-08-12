@@ -6,9 +6,7 @@ My main background is C#/.NET and business software, with experience in backend 
 
 ## ReverySky 3D Graph
 
-### [Explore your Obsidian vault as an interactive 3D star map](https://github.com/moonskorch/ReverySky-Plugin)
-
-ReverySky 3D Graph is an open-source Obsidian Community plugin that turns the structure of a vault into an explorable 3D universe.
+[ReverySky 3D Graph](https://github.com/moonskorch/ReverySky-Plugin) is an open-source Obsidian Community plugin that turns the structure of a vault into an explorable 3D universe.
 
 It combines an Obsidian TypeScript plugin with a Unity WebGL runtime and includes multiple graph layouts, filtering, note navigation, local data processing, and support for large vaults.
 
