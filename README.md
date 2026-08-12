@@ -1,4 +1,4 @@
-![Profile banner](assets/profile-banner.webp)
+![Profile banner](assets/profile-banner-720.webp)
 
 ## About
 
