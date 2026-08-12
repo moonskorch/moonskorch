@@ -1,4 +1,4 @@
-# About
+## About
 
 Software developer working across application development, web, databases, infrastructure, and interactive systems.
 
